@@ -133,7 +133,7 @@ U 1 1 5FCFA488
 P 4225 2525
 F 0 "U1" H 4225 2842 50  0000 C CNN
 F 1 "74HCT04" H 4225 2751 50  0000 C CNN
-F 2 "" H 4225 2525 50  0001 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_Socket_LongPads" H 4225 2525 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 4225 2525 50  0001 C CNN
 	1    4225 2525
 	1    0    0    -1  
@@ -144,7 +144,7 @@ U 2 1 5FCFF8E0
 P 4200 7050
 F 0 "U1" H 4200 7367 50  0000 C CNN
 F 1 "74HCT04" H 4200 7276 50  0000 C CNN
-F 2 "" H 4200 7050 50  0001 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_Socket_LongPads" H 4200 7050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 4200 7050 50  0001 C CNN
 	2    4200 7050
 	0    1    -1   0   
@@ -155,7 +155,7 @@ U 3 1 5FD001F1
 P 3675 7050
 F 0 "U1" H 3675 7367 50  0000 C CNN
 F 1 "74HCT04" H 3675 7276 50  0000 C CNN
-F 2 "" H 3675 7050 50  0001 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_Socket_LongPads" H 3675 7050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3675 7050 50  0001 C CNN
 	3    3675 7050
 	0    1    -1   0   
@@ -166,7 +166,7 @@ U 4 1 5FD00E2D
 P 3150 7050
 F 0 "U1" H 3150 7367 50  0000 C CNN
 F 1 "74HCT04" H 3150 7276 50  0000 C CNN
-F 2 "" H 3150 7050 50  0001 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_Socket_LongPads" H 3150 7050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 3150 7050 50  0001 C CNN
 	4    3150 7050
 	0    1    -1   0   
@@ -177,7 +177,7 @@ U 5 1 5FD0162D
 P 2625 7050
 F 0 "U1" H 2625 7367 50  0000 C CNN
 F 1 "74HCT04" H 2625 7276 50  0000 C CNN
-F 2 "" H 2625 7050 50  0001 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2625 7050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 2625 7050 50  0001 C CNN
 	5    2625 7050
 	0    1    -1   0   
@@ -188,7 +188,7 @@ U 6 1 5FD02349
 P 2100 7050
 F 0 "U1" H 2100 7367 50  0000 C CNN
 F 1 "74HCT04" H 2100 7276 50  0000 C CNN
-F 2 "" H 2100 7050 50  0001 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_Socket_LongPads" H 2100 7050 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 2100 7050 50  0001 C CNN
 	6    2100 7050
 	0    1    -1   0   
@@ -199,7 +199,7 @@ U 7 1 5FD02C81
 P 1625 6850
 F 0 "U1" H 1855 6896 50  0000 L CNN
 F 1 "74HCT04" H 1855 6805 50  0000 L CNN
-F 2 "" H 1625 6850 50  0001 C CNN
+F 2 "Housings_DIP:DIP-14_W7.62mm_Socket_LongPads" H 1625 6850 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf" H 1625 6850 50  0001 C CNN
 	7    1625 6850
 	-1   0    0    -1  
@@ -266,7 +266,7 @@ U 1 1 5FD14BDE
 P 5150 2725
 F 0 "D2" H 5150 2550 50  0000 C CNN
 F 1 "1n5711" H 5150 2625 50  0000 C CNN
-F 2 "" V 5150 2725 50  0001 C CNN
+F 2 "Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5150 2725 50  0001 C CNN
 F 3 "~" V 5150 2725 50  0001 C CNN
 	1    5150 2725
 	-1   0    0    -1  
@@ -291,7 +291,7 @@ U 1 1 5FD1D1D6
 P 5150 2125
 F 0 "D1" H 5150 1920 50  0000 C CNN
 F 1 "1n5711" H 5150 2011 50  0000 C CNN
-F 2 "" V 5150 2125 50  0001 C CNN
+F 2 "Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5150 2125 50  0001 C CNN
 F 3 "~" V 5150 2125 50  0001 C CNN
 	1    5150 2125
 	-1   0    0    1   
@@ -313,12 +313,12 @@ Wire Wire Line
 Wire Wire Line
 	4525 2525 6600 2525
 $Comp
-L Device:C C?
+L Device:C C1
 U 1 1 5FD32F7C
 P 675 6850
-F 0 "C?" H 560 6896 50  0000 R CNN
+F 0 "C1" H 560 6896 50  0000 R CNN
 F 1 "100nF" H 560 6805 50  0000 R CNN
-F 2 "" H 713 6700 50  0001 C CNN
+F 2 "Capacitors_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm" H 713 6700 50  0001 C CNN
 F 3 "~" H 675 6850 50  0001 C CNN
 	1    675  6850
 	-1   0    0    -1  

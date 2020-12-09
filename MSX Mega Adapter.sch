@@ -260,17 +260,6 @@ NoConn ~ 3675 6750
 NoConn ~ 3150 6750
 NoConn ~ 2625 6750
 NoConn ~ 2100 6750
-$Comp
-L Device:D_Small D2
-U 1 1 5FD14BDE
-P 5150 2725
-F 0 "D2" H 5150 2550 50  0000 C CNN
-F 1 "1n5711" H 5150 2625 50  0000 C CNN
-F 2 "Diodes_THT:D_DO-35_SOD27_P10.16mm_Horizontal" V 5150 2725 50  0001 C CNN
-F 3 "~" V 5150 2725 50  0001 C CNN
-	1    5150 2725
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	5250 2725 6600 2725
 Text GLabel 4975 2725 0    60   Output ~ 0
@@ -285,17 +274,6 @@ Text GLabel 6325 4150 0    60   Input ~ 0
 TRIGGER2
 Wire Wire Line
 	6325 4150 6600 4150
-$Comp
-L Device:D_Small D1
-U 1 1 5FD1D1D6
-P 5150 2125
-F 0 "D1" H 5150 1920 50  0000 C CNN
-F 1 "1n5711" H 5150 2011 50  0000 C CNN
-F 2 "Diodes_THT:D_DO-35_SOD27_P10.16mm_Horizontal" V 5150 2125 50  0001 C CNN
-F 3 "~" V 5150 2125 50  0001 C CNN
-	1    5150 2125
-	-1   0    0    1   
-$EndComp
 Wire Wire Line
 	5250 2125 6600 2125
 Text GLabel 4975 2125 0    60   Output ~ 0
@@ -336,4 +314,26 @@ Wire Wire Line
 Connection ~ 1625 6275
 Wire Wire Line
 	1625 6275 1625 6350
+$Comp
+L Device:D_Small D1
+U 1 1 5FD14BDE
+P 5150 2725
+F 0 "D1" H 5150 2550 50  0000 C CNN
+F 1 "1n5711" H 5150 2625 50  0000 C CNN
+F 2 "Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5150 2725 50  0001 C CNN
+F 3 "~" V 5150 2725 50  0001 C CNN
+	1    5150 2725
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D2
+U 1 1 5FD1D1D6
+P 5150 2125
+F 0 "D2" H 5150 1920 50  0000 C CNN
+F 1 "1n5711" H 5150 2011 50  0000 C CNN
+F 2 "Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 5150 2125 50  0001 C CNN
+F 3 "~" V 5150 2125 50  0001 C CNN
+	1    5150 2125
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC

@@ -1,5 +1,5 @@
 # MSX Mega Adapter
-...
+This is a quick and easy version of the [JoyMega](https://www.msx.org/wiki/JoyMega) for the MSX-line of computers, I believe they were originally a design by [FRS](http://frs.badcoffee.info/hardware/joymega-en.html) as he did a very detailed writeup of its development over various revisions. Instead of going by his latest revisions as a starting point, this was instead created to be easily built using the kind of parts I already had laying around the house (mostly from ebay and AliExpress). Functionally it remains the same, just easier to build.
 
 ## Building the adapter
 ...

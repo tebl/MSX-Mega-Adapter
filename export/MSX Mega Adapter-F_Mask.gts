@@ -1,21 +1,22 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
-G04 #@! TF.CreationDate,2020-12-08T02:28:16+01:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.8)-1*
+G04 #@! TF.CreationDate,2021-03-27T16:05:23+01:00*
 G04 #@! TF.ProjectId,MSX Mega Adapter,4d535820-4d65-4676-9120-416461707465,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2020-12-08 02:28:16*
+G04 Created by KiCad (PCBNEW (5.1.8)-1) date 2021-03-27 16:05:23*
 %MOMM*%
 %LPD*%
+G01*
 G04 APERTURE LIST*
-%ADD10C,2.000000*%
-%ADD11O,2.800000X2.000000*%
-%ADD12R,2.800000X2.000000*%
-%ADD13R,2.000000X2.000000*%
-%ADD14C,4.400000*%
-%ADD15O,2.000000X2.000000*%
+%ADD10C,1.600000*%
+%ADD11O,2.400000X1.600000*%
+%ADD12R,2.400000X1.600000*%
+%ADD13R,1.600000X1.600000*%
+%ADD14C,4.000000*%
+%ADD15O,1.600000X1.600000*%
 G04 APERTURE END LIST*
 D10*
 X128985000Y-67945000D03*

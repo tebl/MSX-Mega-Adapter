@@ -40,7 +40,9 @@ Most parts should be easy to get a hold of from your favourite local electronic 
 | ------------ | ------------------------------------- | ----- |
 | PCB          | Fabricate using Gerber files          |     1 |
 | C1           | 100nF ceramic capacitor (5mm)         |     1 |
-| D1,D2        | 1n5711 diode (DO-35)                  |     2 |
+| D1,D2 *      | 1n5711 diode (DO-35)                  |     2 |
 | J1           | Female DB9 right-angle connector      |     1 |
 | J2           | Male DB9 right-angle connector        |     1 |
 | U1           | 74HCT04 (DIP-14)                      |     1 |
+
+*) These can be substituted with BAT-85 diodes instead. Not tested, but you could also try out standard 1n4148 diodes instead as those are often used with adapters of this type.
